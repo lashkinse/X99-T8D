@@ -2,7 +2,9 @@
 This repository contains modified BIOS files for the HUANANZHI X99-T8D motherboard. These modifications unlock additional features and optimizations.
 
 # Files Included
+
 x99-t8d_orig.rom: The original BIOS dump (version X9T8D005).
+
 x99-t8d_mod7025.rom: Modified BIOS with unlocked Turbo Boost (-70, -25) and memory timing menu.
 
 # Disclaimer
